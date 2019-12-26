@@ -1,0 +1,17 @@
+.a,.b,.c,.d,.e{
+  padding:0px;
+  margin:0px;
+  width:70%;
+  height:80%;
+}
+.b{ height: 358.67px;}
+
+.Forest-container{
+  width:60%;
+  margin-left: 400px;
+  overflow:hidden;
+}
+
+.Forest-slide{
+  display:flex;
+}
